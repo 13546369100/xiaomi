@@ -219,6 +219,7 @@ a.box-orange:hover{
     left: 876px;
     bottom: 19px;
     border: 1px solid #e0e0e0;
+    line-height: 50px;
     z-index: 2;
 }
 .solid .pro{
